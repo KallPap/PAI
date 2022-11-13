@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e78539c-aa32-4de8-9227-fdc7d78fddb8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/task2_handout_d5ba51ff.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/task2_handout_d5ba51ff.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/solution.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,14 +20,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/kalliopipapadaki/Desktop/task2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/kalliopipapadaki/Desktop/task2",
+    "nodejs_package_manager_path": "npm"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
       <deployment type="dockerfile">
@@ -58,7 +56,7 @@
       <workItem from="1667931983782" duration="1852000" />
       <workItem from="1668002047711" duration="1891000" />
       <workItem from="1668291476254" duration="1949000" />
-      <workItem from="1668294749061" duration="1905000" />
+      <workItem from="1668294749061" duration="3033000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1668002121678</created>
@@ -67,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668002121678</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test">
+      <created>1668296693921</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668296693921</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
