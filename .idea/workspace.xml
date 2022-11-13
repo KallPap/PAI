@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4e78539c-aa32-4de8-9227-fdc7d78fddb8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/solution.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +61,7 @@
       <workItem from="1667931983782" duration="1852000" />
       <workItem from="1668002047711" duration="1891000" />
       <workItem from="1668291476254" duration="1949000" />
-      <workItem from="1668294749061" duration="6196000" />
+      <workItem from="1668294749061" duration="7103000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1668002121678</created>
@@ -104,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668299717743</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="test">
+      <created>1668300980638</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1668300980638</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,13 +132,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/solution.py</url>
-          <line>563</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solution.py</url>
-          <line>325</line>
-          <option name="timeStamp" value="4" />
+          <line>508</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
